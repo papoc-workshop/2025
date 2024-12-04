@@ -2,7 +2,7 @@
 title: PaPoC Workshop 2025
 ---
 
-The 12th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place on May 8th, 2023, in conjunction with [EuroSys 2023](https://2023.eurosys.org).
+The 12th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place on Monday, March 31st, 2025, in conjunction with [EuroSys 2025](https://2025.eurosys.org).
 
 ### Background
 
