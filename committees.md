@@ -4,8 +4,10 @@ title: Committees
 # Committees
 
 **Program Chairs**
-* Gowtham Kaki, University of Colorado Boulder, USA
+
 * Davide Frey, Inria Rennes - Bretagne Atlantique, France
+* Gowtham Kaki, University of Colorado Boulder, USA
+
 
 **Program Committee**
 
