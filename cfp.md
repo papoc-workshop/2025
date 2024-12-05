@@ -60,7 +60,7 @@ To anonymize your submission, just pass the `anonymous` option to `acmart.cls`.
 
 In case of any questions, please contact the Program Chairs at [papoc25@hotcrp.com](mailto:papoc25@hotcrp.com).
 
-## Important Dates (test)
+## Important Dates
 
 | Submission deadline   |Jan 15, 2025|
 | Notification date     |Feb 19, 2025|
