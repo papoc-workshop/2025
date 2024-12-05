@@ -61,12 +61,14 @@ To anonymize your submission, just pass the `anonymous` option to `acmart.cls`.
 In case of any questions, please contact the Program Chairs at [papoc25@hotcrp.com](mailto:papoc25@hotcrp.com).
 
 ## Important Dates
-| <!-- -->    | <!-- -->    |
-|---|---|
+
 | Submission deadline   |Jan 15, 2025|
+
+|---|---|
+
 | Notification date     |Feb 19, 2025|
 | Camera-Ready deadline |Feb 28, 2025|
 | Workshop              |March 31, 2025|
-|||
+
 All deadline times are 23:59 hrs
 [AoE](https://www.timeanddate.com/time/zones/aoe).
