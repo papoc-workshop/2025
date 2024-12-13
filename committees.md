@@ -14,14 +14,12 @@ title: Committees
 TBD
 
 **Steering Committee**
-* Peter Bailis, Sisu Data
-* Carlos Baquero, HASLab, INESC TEC & University of Minho, Portugal
-* Annette Bieniusa, University of Kaiserslautern, Germany
-* Carla Ferreira, Universidade NOVA de Lisboa, Portugal
-* Alexey Gotsman, IMDEA Software Institute, Spain
-* Martin Kleppmann, TU Munich, Germany
-* Heather Miller, Carnegie Mellon University, USA
-* Nuno Preguiça, NOVA-LINCS & NOVA University of Lisbon, Portugal
-* Marco Serafini, University of Massachusetts Amherst, USA
-* Marc Shapiro, Sorbonne-Universités—LIP6 & Inria, France
-* Justin Sheehy, Akamai Technologies, USA
+* Natacha Crooks, UC Berkeley, USA
+* Elisa Gonzalez Boix, Vrije Universiteit Brussel, Belgium (co-chair)
+* Philipp Haller, KTH Royal Institute of Technology, Sweden (co-chair)
+* Heidi Howard, Microsoft
+* Roberto Palmieri, Lehigh University, USA
+* KC Sivaramakrishnan, Indian Institute of Technology, Madras
+* Pierre Sutra, Telecom SudParis, France 
+* Adriana Szekeres, VMware Research, USA
+
