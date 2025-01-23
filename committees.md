@@ -12,50 +12,27 @@ title: Committees
 **Program Committee**
 
 * Ramnatthan Alagappan, University of Illinois Urbana-Champaign and VMware Research, US
-
 * Hagit Attiya, Technion, IL
-
 * Carlos Baquero, Universidade do Porto & INESC TEC, PT
-
 * Manuel Bravo, Informal Systems, ES 
-
 * Christian Cachin, University of Bern, CH
-
 * Murat Demirbas, MongoDB Research, US 
-
 * Constantin Enea, Ecole Polytechnique, FR
-
 * Carla Ferreira, NOVA University, Lisbon, PT
-
-* Davide Frey, Inria, FR
-
 * Aishwarya Ganesan, University of Illiniois, Urbana-Champaign, US 
-
 * Maurice Herlihy, Brown University, CS, US 
-
 * Heidi Howard, University of Cambridge, GB
-
-* Gowtham Kaki, University of Colorado, Boulder, US 
-
 * Martin Kleppmann, University of Cambridge, GB,
-
 * Kartik Nagar, IIT Madras, IN
-
 * Sreeja Nair Ditto, Live Inc, FR
-
 * Sathya Peri, Department of Computer Science Engineering,  Indian Institute of Technology Hyderabad,  India
 * Matthieu Perrin, Université de Nantes - LINA,  France" 
 * Gustavo Petri, Amazon  UK, GB
 * Nuno Preguica, Universidade Nova,  Lisbon, PT
-
 * Rodrigo Rodrigues, Instituto Superior Técnico (ULisboa) / INESC-ID, Lisbon, PT
-
 * Marc Shapiro, Sorbonne-Université–LIP6 & Inria, FR
-
 * KC Sivaramakrishnan, IIT Madras, IN
-
 * Pierre Sutra, Télécom SudParis, FR
-
 * Luca Zanolini, Ethereum Foundation, GB
 
 
