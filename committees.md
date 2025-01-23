@@ -14,6 +14,7 @@ title: Committees
 * Ramnatthan Alagappan, University of Illinois Urbana-Champaign and VMware Research, US
 * Hagit Attiya, Technion, IL
 * Carlos Baquero, Universidade do Porto & INESC TEC, PT
+* Annette Bieniusa, bieniusa@cs.uni-kl.de, University of Kaiserslautern-Landau (RPTU), Germany
 * Manuel Bravo, Informal Systems, ES 
 * Christian Cachin, University of Bern, CH
 * Murat Demirbas, MongoDB Research, US 
