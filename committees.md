@@ -22,7 +22,8 @@ title: Committees
 * Aishwarya Ganesan, University of Illiniois, Urbana-Champaign, US 
 * Maurice Herlihy, Brown University, CS, US 
 * Heidi Howard, University of Cambridge, GB
-* Martin Kleppmann, University of Cambridge, GB,
+* Martin Kleppmann, University of Cambridge, GB
+* Achour Mostefaoui, University of Rennes, FR
 * Kartik Nagar, IIT Madras, IN
 * Sreeja Nair Ditto, Live Inc, FR
 * Sathya Peri, Department of Computer Science Engineering,  Indian Institute of Technology Hyderabad,  India
