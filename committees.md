@@ -28,7 +28,7 @@ title: Committees
 * Kartik Nagar, IIT Madras, IN
 * Sreeja Nair Ditto, Live Inc, FR
 * Sathya Peri, Department of Computer Science Engineering,  Indian Institute of Technology Hyderabad,  India
-* Matthieu Perrin, Université de Nantes - LINA,  France" 
+* Matthieu Perrin, Université de Nantes - LINA,  France
 * Gustavo Petri, Amazon  UK, GB
 * Nuno Preguica, Universidade Nova,  Lisbon, PT
 * Rodrigo Rodrigues, Instituto Superior Técnico (ULisboa) / INESC-ID, Lisbon, PT
