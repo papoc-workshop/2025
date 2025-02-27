@@ -64,7 +64,7 @@ In case of any questions, please contact the Program Chairs at [papoc25@hotcrp.c
 
 | Submission deadline   |~~Jan 15, 2025~~ Extended to Feb 5, 2025 (firm)|
 | Notification date     |~~Feb 19, 2025~~ Feb 22, 2025|
-| Camera-Ready deadline |--Feb 28, 2025-- Extended to March 5, 2025 (firm)|
+| Camera-Ready deadline |~~Feb 28, 2025~~ Extended to March 5, 2025 (firm)|
 | Workshop              |March 31, 2025|
 
 All deadline times are 23:59 hrs
