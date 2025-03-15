@@ -10,7 +10,8 @@ To see how to reach the conference area, please follow [this](https://2025.euros
 ## Schedule
 
 * 8:30am **Welcome Coffee**
-* 9:00am **Keynote Talk** -  Martin Kleppmann
+* 9:00am **Keynote Talk** -  Martin Kleppmann  
+*"Byzantine Eventual Consistency and Local-First Access Control"*
 * 10:00am **Lightning-Talk Session**
 	* 10:00am M. Katebzadeh, A. Katsarakis, B. Grot  *"Reliable Replication Protocols on SmartNICs"*
 	* 10:10am A. Psistakis, C. Alverti, J. Torrellas  *"LeaderlessCXL: Leaderless Distributed Systems in the Era of CXL"* 
