@@ -26,7 +26,8 @@ To see how to reach the conference area, please follow [this](https://2025.euros
 	* 12:00pm N. Marx, F. Jacob, H. Hartenstein  
 	*"Proof-Carrying CRDTs allow Succinct Non-Interactive Byzantine Update Validation"*
 * 12:30pm **Lunch**
-* 2:00pm **Keynote Talk** - Luca Zanolini
+* 2:00pm **Keynote Talk** - Luca Zanolini  
+*“Towards a faster finality protocol for Ethereum"*
 * Graph **DB Session**
 	* 3:00pm A. Pandey, S. Dumbrava, M. Shapiro, C. Ferreira, M. Pereira, N. Preguica  
 	*"Towards Local-First Distributed Property Graphs"*
