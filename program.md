@@ -41,7 +41,7 @@ To see how to reach the conference area, please follow [this](https://2025.euros
 	*"ReDunT: Automatically Deriving Redundancy Relations for Pure Op-Based CRDTs"* 
 	* 5:00pm A. Dantas, C. Baquero  
 	*"CRDT-Based Game State Synchronization in Peer-to-Peer VR"*
-	* 5:30pm J. Trovato, E. Gulcan, B. Ozkan. 
+	* 5:30pm J. Xiong, E. Gulcan, B. Ozkan__
 	*"CRDTs for Approximate Membership Queries"*
 
 
